@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/doup/metalsmith-i18n#readme",
   "dependencies": {
-    "i18n": "^0.5.0"
+    "i18n": "^0.8.1"
   },
   "scripts": {
     "test": "mocha --ui bdd --reporter spec"
